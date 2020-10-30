@@ -1,6 +1,6 @@
 # React Google Book Search
 
-![image]()
+![image](GoogleBookSearch.gif)
 
 Link to live application: /
 
